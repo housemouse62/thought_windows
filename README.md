@@ -1,2 +1,2 @@
-# Thought_Windows
+# thought_windows
 Thought Windows homepage
